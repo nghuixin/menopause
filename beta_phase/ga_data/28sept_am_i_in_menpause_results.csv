@@ -1,0 +1,26 @@
+# ----------------------------------------
+# Site Data
+# Top Events
+# 20210924-20210928
+# ----------------------------------------
+
+Event Label,IP Address,Total Events,Unique Events,Event Value,Avg. Value
+uncertain-stage-result,107.10.231.221,1,1,0,0.00
+post-menopausal-result,107.126.100.27,1,1,0,0.00
+post-menopausal-result,107.204.168.21,2,1,0,0.00
+post-menopausal-result,107.77.196.108,3,1,0,0.00
+late-menopause-transition-result,107.77.204.226,1,1,0,0.00
+uncertain-stage-result,108.195.7.70,1,1,0,0.00
+reproductive-years-result,108.202.117.72,1,1,0,0.00
+uncertain-stage-result,108.234.124.199,1,1,0,0.00
+pre-menopausal-result,136.49.55.129,2,2,0,0.00
+uncertain-stage-result,136.49.55.129,1,1,0,0.00
+,,77,54,0,0.00
+
+Day Index,Total Events
+9/24/21,30
+9/25/21,23
+9/26/21,30
+9/27/21,14
+9/28/21,7
+,104
