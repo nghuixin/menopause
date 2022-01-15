@@ -1,0 +1,6 @@
+Q_RecaptchaScore_p2    21.0
+C-ATT-CHECK1_p2         4.0
+C-ATT-CHECK2_p2         2.0
+Randomization_2_p2      3.0
+E-ATT-CHECK1_p2         8.0
+E-ATT-CHECK2_p2         2.0
